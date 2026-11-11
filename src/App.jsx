@@ -388,9 +388,7 @@ function App() {
                 <a className="contact-value" href="tel:+918619949455">
                   (91) 86199 49455
                 </a>
-              </div>
-              <div className="contact-item">
-                <p className="contact-label">Mobile</p>
+                <br />
                 <a className="contact-value" href="tel:+917878539633">
                   (91) 78785 39633
                 </a>
