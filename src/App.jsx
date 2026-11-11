@@ -390,6 +390,12 @@ function App() {
                 </a>
               </div>
               <div className="contact-item">
+                <p className="contact-label">Mobile</p>
+                <a className="contact-value" href="tel:+917878539633">
+                  (91) 78785 39633
+                </a>
+              </div>
+              <div className="contact-item">
                 <p className="contact-label">Email</p>
                 <a
                   className="contact-value"
