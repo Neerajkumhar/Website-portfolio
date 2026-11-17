@@ -58,6 +58,14 @@ const projects = [
     row: 3,
     ratio: '1159 / 759',
   },
+  {
+    brand: 'Culturaft -',
+    name: 'Handmade Home Decor',
+    image: '/assets/Culturaft - Handmade Home Decor.png',
+    href: 'https://culturaft.com',
+    row: 3,
+    ratio: '1536 / 1024',
+  },
 ]
 
 const focuses = [
